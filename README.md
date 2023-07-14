@@ -14,7 +14,6 @@ _**[Yingqing He*](https://github.com/YingqingHe), [Menghan Xia*](https://menghan
 
 ## 🥳 Demo
 <p align="center"> <img src="assets/demo1.gif" width="700px"> </p>
-<p align="center"> <img src="assets/demo2.gif" width="700px"> </p>
 
 
 ## 🔆 Abstract
