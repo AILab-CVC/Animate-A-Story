@@ -14,7 +14,7 @@ _**[Yingqing He*](https://github.com/YingqingHe), [Menghan Xia*](https://menghan
 
 ## 🥳 Demo
 <p align="center"> <img src="assets/demo1.gif" width="700px"> </p>
-
+Please check more demo videos at the [project page](https://videocrafter.github.io/Animate-A-Story/).
 
 ## 🔆 Abstract
 <b>TL; DR: 🤗🤗🤗 **Animate-A-Story** is a video storytelling approach which can synthesize high-quality, structure-controlled, and character-controlled videos.</b>
