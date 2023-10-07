@@ -30,13 +30,11 @@ Our experiments showcase the significant advantages of our proposed methods over
 
 ## 😉 Citation
 ```bib
-@misc{he2023animate-a-story,
-      title={Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation}, 
-      author={Yingqing He and Manghan Xia and Haoxin Chen and Xiaodong Cun and Yuan Gong and Jinbo Xing and Yong Zhang and Xintao Wang and Chao Weng and Ying Shan and Qifeng Chen},
-      year={2023},
-      eprint={todo},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{he2023animate,
+  title={Animate-a-story: Storytelling with retrieval-augmented video generation},
+  author={He, Yingqing and Xia, Menghan and Chen, Haoxin and Cun, Xiaodong and Gong, Yuan and Xing, Jinbo and Zhang, Yong and Wang, Xintao and Weng, Chao and Shan, Ying and others},
+  journal={arXiv preprint arXiv:2307.06940},
+  year={2023}
 }
 ```
 ## 📭 Contact
