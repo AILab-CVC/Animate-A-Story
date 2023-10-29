@@ -2,7 +2,7 @@
 
 <h2>Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation</h2> 
 
- <a href='https://arxiv.org/abs/2307.06940'><img src='https://img.shields.io/badge/ArXiv-2305.18247-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://VideoCrafter.github.io/Animate-A-Story'><img src='https://img.shields.io/badge/Project-Page-Green'></a> 
+ <a href='https://arxiv.org/abs/2307.06940'><img src='https://img.shields.io/badge/ArXiv-2305.18247-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://ailab-cvc.github.io/Animate-A-Story/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> 
   
 
 _**[Yingqing He*](https://github.com/YingqingHe), [Menghan Xia*](https://menghanxia.github.io/), Haoxin Chen*, [Xiaodong Cun](http://vinthony.github.io/), [Yuan Gong](https://github.com/yuanygong), [Jinbo Xing](https://doubiiu.github.io/),<br> 
